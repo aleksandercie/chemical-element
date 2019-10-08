@@ -1,0 +1,28 @@
+
+	#unknown{
+			background: black;
+	}
+	#alkali-metal{
+			background: #FE621D;
+	}
+	#alkaline-earth-metal{
+			background: #FFD402;
+	}
+	#noble{
+			background: #511A93;
+	}
+	#poor-metal{
+			background: #1CEAB0;
+	}
+	#transition-metal{
+			background: #B70000;
+	}
+	#other-non-metal{
+			background: #93FC00;
+	}
+	#lanthanoid{
+			background: #CC4360;
+	}
+	#actinoid{
+			background: #5C4D75;
+		}

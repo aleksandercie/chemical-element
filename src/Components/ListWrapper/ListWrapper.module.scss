@@ -1,0 +1,19 @@
+.wrapper{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: #29303F;
+    color: #DCD9D8;
+    width: 400px;
+    padding: 10px 20px;
+    border: none;
+
+}
+@media(max-width: 410px){
+    .wrapper{
+        width: 100%;
+    }
+    
+}

@@ -1,0 +1,66 @@
+.wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 400px;
+  background-color: #29303F;
+  margin: 0 0 20px;
+  border: none;
+  padding: 25px 10px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #DCD9D8;
+  font-size: 34px;
+  margin-top: 0;
+}
+
+input {
+  padding: 10px 8px;
+  text-align: left;
+  outline: none;
+  background-color: #29303F;
+  border: none;
+  border-bottom: 2px solid #DCD9D8;
+  color: #DCD9D8;
+  font-weight: 600;
+  font-size: 16px;
+  border-radius: 8px;
+  width: 250px;
+}
+
+::-webkit-input-placeholder {
+  /* Edge */
+  color: #DCD9D8;
+  font-weight: 600;
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #DCD9D8;
+  font-weight: 600;
+}
+
+::-ms-input-placeholder {
+  color: #DCD9D8;
+  font-weight: 600;
+}
+
+::placeholder {
+  color: #DCD9D8;
+  font-weight: 600;
+}
+/*# sourceMappingURL=SearchBox.module.css.map */
