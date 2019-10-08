@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/chemical-element/static/css/main.19bed6b5.chunk.css",
+    "main.js": "/chemical-element/static/js/main.09f61659.chunk.js",
+    "main.js.map": "/chemical-element/static/js/main.09f61659.chunk.js.map",
+    "runtime-main.js": "/chemical-element/static/js/runtime-main.e4a956c8.js",
+    "runtime-main.js.map": "/chemical-element/static/js/runtime-main.e4a956c8.js.map",
+    "static/js/2.f559598a.chunk.js": "/chemical-element/static/js/2.f559598a.chunk.js",
+    "static/js/2.f559598a.chunk.js.map": "/chemical-element/static/js/2.f559598a.chunk.js.map",
+    "index.html": "/chemical-element/index.html",
+    "precache-manifest.51428905de55ce8cd56d7e61a1f549b5.js": "/chemical-element/precache-manifest.51428905de55ce8cd56d7e61a1f549b5.js",
+    "service-worker.js": "/chemical-element/service-worker.js",
+    "static/css/main.19bed6b5.chunk.css.map": "/chemical-element/static/css/main.19bed6b5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4a956c8.js",
+    "static/js/2.f559598a.chunk.js",
+    "static/css/main.19bed6b5.chunk.css",
+    "static/js/main.09f61659.chunk.js"
+  ]
+}
